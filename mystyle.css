@@ -1,0 +1,25 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+p {
+	font-family: "Tahoma", Arial, serif;
+	font-style: normal;
+}
+
+ul {
+	list-style-type: circle;
+	padding: 5px;
+	margin: 20px;
+}
+
+ul li {
+	padding-left: 5px;
+}
+
+h2 {
+	margin: 10px;
+	text-decoration: underline;
+
+}
